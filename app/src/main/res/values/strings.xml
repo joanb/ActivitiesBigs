@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivitiesBigs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_button">ButtonActivity</string>
+    <string name="title_activity_finish">FinishActivity</string>
+    <string name="title_activity_non_sense">NonSenseActivity</string>
+</resources>
